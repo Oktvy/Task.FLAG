@@ -1,0 +1,57 @@
+body{
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+.Cities{
+    font-size: 30px ;
+}
+.America{
+    width: 100%;
+    height: 450px;
+    background-image: url(/assets/images/1920px-Flag_of_the_United_States.svg.png);
+    background-size: cover;
+    background-repeat: round;
+    position: sticky;
+    top: 0;
+   
+}
+.Belguim{
+    width: 100%;
+    height: 450px;
+    background-image: url(/assets/images/Flag_of_Belgium_\(civil\).svg.png);
+    background-size: cover;
+    background-repeat: round;
+    position: sticky;
+    top: 0;
+}
+.Canada{
+    width: 100%;
+    height: 450px;
+    background-image: url(/assets/images/Flag_of_Canada_\(Pantone\).svg.png);
+    background-size: cover;
+    background-repeat: round;
+    position: sticky;
+    top: 0;
+}
+.Denmark{
+    width: 100%;
+    height: 450px;
+    background-image: url(/assets/images/Flag_of_Denmark.svg.png);
+    background-size: cover;
+    background-repeat: round;
+    position: sticky;
+    top: 0;
+}
+.Estonia{
+    width: 100%;
+    height: 450px;
+    background-image: url(/assets/images/Flag_of_Estonia.svg.png);
+    background-size: cover;
+    background-repeat: round;
+    position: sticky;
+    top: 0;
+}
+
+.Cities ul li{
+    list-style-type: none;
+}
